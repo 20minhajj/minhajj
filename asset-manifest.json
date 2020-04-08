@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/minhajj/static/css/main.d0879fce.chunk.css",
+    "main.js": "/minhajj/static/js/main.5c583cf5.chunk.js",
+    "main.js.map": "/minhajj/static/js/main.5c583cf5.chunk.js.map",
+    "runtime-main.js": "/minhajj/static/js/runtime-main.5fa3ab1f.js",
+    "runtime-main.js.map": "/minhajj/static/js/runtime-main.5fa3ab1f.js.map",
+    "static/js/2.6b0b3df5.chunk.js": "/minhajj/static/js/2.6b0b3df5.chunk.js",
+    "static/js/2.6b0b3df5.chunk.js.map": "/minhajj/static/js/2.6b0b3df5.chunk.js.map",
+    "index.html": "/minhajj/index.html",
+    "precache-manifest.425dd1b4ad7f79437ea4f6ef43d1159f.js": "/minhajj/precache-manifest.425dd1b4ad7f79437ea4f6ef43d1159f.js",
+    "service-worker.js": "/minhajj/service-worker.js",
+    "static/css/main.d0879fce.chunk.css.map": "/minhajj/static/css/main.d0879fce.chunk.css.map",
+    "static/js/2.6b0b3df5.chunk.js.LICENSE.txt": "/minhajj/static/js/2.6b0b3df5.chunk.js.LICENSE.txt",
+    "static/media/andela.jpeg": "/minhajj/static/media/andela.60626c8a.jpeg",
+    "static/media/download.png": "/minhajj/static/media/download.18608faf.png",
+    "static/media/dp.jpg": "/minhajj/static/media/dp.dfe812c3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fa3ab1f.js",
+    "static/js/2.6b0b3df5.chunk.js",
+    "static/css/main.d0879fce.chunk.css",
+    "static/js/main.5c583cf5.chunk.js"
+  ]
+}
