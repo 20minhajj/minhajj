@@ -2,6 +2,8 @@ import React, { Component } from "react";
 import babel from "./images/babel.png";
 import andela from "./images/andela.jpeg";
 import me from "./images/harith.png";
+import chalet from "./images/chalets.png";
+import safari from "./images/safari.jpg";
 
 class Portfolio extends Component {
   constructor(props) {
@@ -19,7 +21,13 @@ class Portfolio extends Component {
             <p>Portfolio Projects</p>
 
             <div className="tabs">
-              <input type="radio" value="all" id="all" name="tab" defaultChecked/>
+              <input
+                type="radio"
+                value="all"
+                id="all"
+                name="tab"
+                defaultChecked
+              />
               <label htmlFor="all">all</label>
               <input
                 type="radio"
@@ -94,12 +102,31 @@ class Portfolio extends Component {
                     <span>&#43;</span>
                   </div>
                 </div>
+                <div className="all websiteDesign float-left">
+                  <img
+                    className="responsive-img"
+                    src={chalet}
+                    width="300"
+                    height="300"
+                    alt="tab"
+                  />
+                  <div className="overlay">
+                    <h3>Web app</h3>
+                    <p>Chalets&Caviar Real Estate</p>
+                    <span>
+                      <a
+                        href="https://chalets.cloudaccess.host/"
+                        target="_blanck"
+                      >
+                        &#43;
+                      </a>
+                    </span>
+                  </div>
+                </div>
                 <div className="all websiteDesign center float-left">
                   <img
                     className="responsive-img"
-                    src={
-                      "https://raw.githubusercontent.com/20minhajj/safariChap/UI/UI/img/safari-chap-bg.jpg?token=AK3LMVL5AF6EZYA3G6AOGK26STDQG"
-                    }
+                    src={safari}
                     width="300"
                     height="300"
                     alt="tab"
