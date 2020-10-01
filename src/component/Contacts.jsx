@@ -32,7 +32,7 @@ class Contacts extends Component {
     } 
     console.log(userMsg)
     axios
-      .post(" http://localhost:5000/api/stuff" , userMsg)
+      .post("/send" , userMsg)
       .then(response => {
         console.log(response);
       })
