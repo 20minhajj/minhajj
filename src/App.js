@@ -70,7 +70,7 @@ function App() {
               className="responsive-img"
               src={dp}
               alt="conan"
-              width="300"
+              width="100"
               height="400"
             />
           </div>
