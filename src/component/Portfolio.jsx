@@ -4,6 +4,7 @@ import andela from "./images/andela.jpeg";
 import me from "./images/harith.png";
 import chalet from "./images/chalets.png";
 import safari from "./images/safari.jpg";
+import watch from "./images/logo.png";
 
 class Portfolio extends Component {
   constructor(props) {
@@ -135,6 +136,27 @@ class Portfolio extends Component {
                     <h3>Web App</h3>
                     <p>safariChap</p>
                     <span>&#43;</span>
+                  </div>
+                </div>
+                <div className="all websiteDesign float-left">
+                  <img
+                    className="responsive-img"
+                    src={watch}
+                    width="300"
+                    height="300"
+                    alt="tab"
+                  />
+                  <div className="overlay">
+                    <h3>Web App</h3>
+                    <p>safariChap</p>
+                    <span>
+                      <a
+                        href="https://github.com/20minhajj/WatchItOutSide"
+                        target="_blanck"
+                      >
+                        &#43;
+                      </a>
+                    </span>
                   </div>
                 </div>
 
