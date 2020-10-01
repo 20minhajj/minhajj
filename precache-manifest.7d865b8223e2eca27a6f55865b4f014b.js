@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9d63872cb563aaaab65ddab54c4446e2",
+    "revision": "d21e3bbe7c769f27e451777369b2d3a3",
     "url": "/minhajj/index.html"
   },
   {
-    "revision": "ea940feb95b82513ef3f",
+    "revision": "6a11915c999043a5dfb1",
     "url": "/minhajj/static/css/main.4ef766fa.chunk.css"
   },
   {
-    "revision": "12173b3670882dd06585",
-    "url": "/minhajj/static/js/2.a6881030.chunk.js"
+    "revision": "38b08107bc8af07ea2d8",
+    "url": "/minhajj/static/js/2.3f3bd924.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/minhajj/static/js/2.a6881030.chunk.js.LICENSE.txt"
+    "url": "/minhajj/static/js/2.3f3bd924.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ea940feb95b82513ef3f",
-    "url": "/minhajj/static/js/main.32c1de43.chunk.js"
+    "revision": "6a11915c999043a5dfb1",
+    "url": "/minhajj/static/js/main.40570376.chunk.js"
   },
   {
-    "revision": "4649dbf7af98a1948142",
-    "url": "/minhajj/static/js/runtime-main.5fa3ab1f.js"
+    "revision": "f8d607c539f213595320",
+    "url": "/minhajj/static/js/runtime-main.6b005b5b.js"
   },
   {
     "revision": "60626c8a34252730eb63c9dc2aea6d03",
