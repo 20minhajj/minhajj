@@ -15,7 +15,7 @@ class About extends Component {
         <div className="about" id="about">
           <div className="container">
             <h2>About</h2>
-            <p>Short Description;</p>
+            <p>Short Description</p>
             <div className="aboutContent">
               <div className="aboutImage float-left">
                 <img
@@ -31,9 +31,11 @@ class About extends Component {
                   Hello world, I am <span> Harith Minhajj </span>
                   <br /> Full-stack Javascript Developer
                 </h3>
-                <p>I'm a Full-stack Javascript developer having 2.5 year of professional experince. Currently 
-                    i am a Freelancer and a Bachelor degree Student in Compture Science. I am open for any project 
-                    just let us get in touch.
+                <p>
+                  I'm a Full-stack Javascript developer having 2.5 year of
+                  professional experince. Currently i am a Freelancer and a
+                  Bachelor degree Student in Compture Science. I am open for any
+                  project just let us get in touch.
                 </p>
                 <p></p>
               </div>
@@ -68,7 +70,7 @@ class About extends Component {
                 <span>54%</span>
               </div>
             </div>
-            <div className="skill float-left me" >
+            <div className="skill float-left me">
               <h3>NodeJS</h3>
 
               <div className="progress">
