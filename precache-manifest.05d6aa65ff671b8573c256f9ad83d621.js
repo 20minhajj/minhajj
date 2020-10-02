@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d21e3bbe7c769f27e451777369b2d3a3",
+    "revision": "89198c3a0956f44a235b1bd9dae6c0de",
     "url": "/minhajj/index.html"
   },
   {
-    "revision": "6a11915c999043a5dfb1",
+    "revision": "bd53c5fb37b674c4cd6f",
     "url": "/minhajj/static/css/main.4ef766fa.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/minhajj/static/js/2.3f3bd924.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6a11915c999043a5dfb1",
-    "url": "/minhajj/static/js/main.40570376.chunk.js"
+    "revision": "bd53c5fb37b674c4cd6f",
+    "url": "/minhajj/static/js/main.b38fe725.chunk.js"
   },
   {
     "revision": "f8d607c539f213595320",

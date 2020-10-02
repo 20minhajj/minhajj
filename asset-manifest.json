@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/minhajj/static/css/main.4ef766fa.chunk.css",
-    "main.js": "/minhajj/static/js/main.40570376.chunk.js",
-    "main.js.map": "/minhajj/static/js/main.40570376.chunk.js.map",
+    "main.js": "/minhajj/static/js/main.b38fe725.chunk.js",
+    "main.js.map": "/minhajj/static/js/main.b38fe725.chunk.js.map",
     "runtime-main.js": "/minhajj/static/js/runtime-main.6b005b5b.js",
     "runtime-main.js.map": "/minhajj/static/js/runtime-main.6b005b5b.js.map",
     "static/js/2.3f3bd924.chunk.js": "/minhajj/static/js/2.3f3bd924.chunk.js",
     "static/js/2.3f3bd924.chunk.js.map": "/minhajj/static/js/2.3f3bd924.chunk.js.map",
     "index.html": "/minhajj/index.html",
-    "precache-manifest.7d865b8223e2eca27a6f55865b4f014b.js": "/minhajj/precache-manifest.7d865b8223e2eca27a6f55865b4f014b.js",
+    "precache-manifest.05d6aa65ff671b8573c256f9ad83d621.js": "/minhajj/precache-manifest.05d6aa65ff671b8573c256f9ad83d621.js",
     "service-worker.js": "/minhajj/service-worker.js",
     "static/css/main.4ef766fa.chunk.css.map": "/minhajj/static/css/main.4ef766fa.chunk.css.map",
     "static/js/2.3f3bd924.chunk.js.LICENSE.txt": "/minhajj/static/js/2.3f3bd924.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.6b005b5b.js",
     "static/js/2.3f3bd924.chunk.js",
     "static/css/main.4ef766fa.chunk.css",
-    "static/js/main.40570376.chunk.js"
+    "static/js/main.b38fe725.chunk.js"
   ]
 }
